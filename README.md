@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Interactive Collaboration Design Tool.<br>👯 I’m looking to collaborate on anything that will continue to help me learn all that I can and make money in the process.<br>🤝 I’m looking for help with learning all that I can and switching from the hardware side of tech to the software side of tech.<br>🌱 I’m currently learning any and everything front-end related.<br>💬 Ask me about anything you are comfortable with.<br>⚡ Fun fact - I am also an avid gamer and father of 4 girls.
+🔭 I’m currently working on Mastering Python.<br>👯 I’m looking to collaborate on anything that will continue to help me learn all that I can and make money in the process.<br>🤝 I’m looking for help with learning all that I can and switching from the hardware side of tech to the software side of tech.<br>🌱 I’m currently learning any and everything front-end related.<br>💬 Ask me about anything you are comfortable with.<br>⚡ Fun fact - I am also an avid gamer and father of 4 girls.
 
 
 ## 🌐 Socials:
